@@ -1,7 +1,7 @@
 [
   "obsidian-excalidraw-plugin",
   "templater-obsidian",
-  "obsidian-git",
   "table-editor-obsidian",
-  "obsidian-kanban"
+  "obsidian-kanban",
+  "obsidian-git"
 ]
